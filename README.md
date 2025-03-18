@@ -1,5 +1,6 @@
+#Player Goal Prediction
 Target:
-The project predicts the number of goals a player is going to score in an upcoming match in the Premier League based on various factors such as Expected goals(xG) and Minutes played. 
+The project predicts the number of goals a player will score in an upcoming match in the Premier League based on various factors such as Expected goals(xG) and Minutes played. 
 Purpose:
 Predicting the number of goals a player is going to score in an upcoming match is a useful insight for the scouting department of the team. 
 Knowing the goals that will be scored in an upcoming match by a player will help setting up the starting XI and prepare the tactics of the match. 
