@@ -1,5 +1,5 @@
 **Premier League Player Goal Prediction**
-
+---
 **Target:**
 The project predicts the number of goals a player will score in an upcoming match in the Premier League based on various factors such as Expected goals(xG) and Minutes played.
 
@@ -24,7 +24,7 @@ We build the model using machine learning techniques and trained it on previous 
 
 
 **Model:**
-Model is trained using regression techniques and proper evaluating methods
+Model is trained using regression techniques and proper evaluating methods.
 
 **Dataset:**
 Used data from: Kaggle and FBref
