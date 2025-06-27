@@ -1,7 +1,11 @@
 **Premier League Player Goal Prediction**
 ---
 **Target:**
-The project predicts the number of goals a player will score in an upcoming match in the Premier League based on various factors such as Expected goals(xG) and Minutes played.
+The project aims to predict the number of goals a player will score in an upcoming match in the Premier League based on previous match statistics of that player.
+
+
+![My Image](https://images.app.goo.gl/x4rfQKGSxEZtVNH18.png)
+
 
 **Purpose:**
 Knowing the predicted number of goals a player might score in an upcoming match is a useful insight for the scouting department of the team. Also, knowing the goals that will be scored in an upcoming match by a player assists in setting up the starting XI and adjusting the tactics of the match. Moreover, it can help manage the team's attacking players and help the scouting team make decisions on potential transfers. Lastly, it will assist fans to bet on players scoring in upcoming matches.
@@ -9,18 +13,32 @@ Knowing the predicted number of goals a player might score in an upcoming match 
 **How our project works:**
 We build the model using machine learning techniques and trained it on previous match statistics.
 
-**Key features used:**
-- Position of player
+**Predictors used:**
 - Minutes played by player
 - Goals scored in previous matches
 - Total shots
 - Total shots on target
 - Penalty shots on goal
 - Expected goals (xG)
-- Goalkeeper saves (of opposing team)
-- Goals conceded (by opposing team)
-- Penalty kicks saved (by opposing team)
-  
+- Asists
+- No-Penalty xG (npxG)
+- Penalty shoots
+- Yellow cards
+- Red cards
+- Touches
+- Dribbles
+- Tackles
+- Blocks
+- Expected Assists (xAG)
+- Shot Creating Actions
+- Passes Completed
+- Passes Attempted
+- Pass Completion
+- Carries
+- Progressive Carries
+- Dribble Attempts
+- Goal-Creating Actions
+- Successful Dribbles
 
 
 **Model:**
