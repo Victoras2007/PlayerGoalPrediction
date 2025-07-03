@@ -44,7 +44,7 @@ We build the model using machine learning techniques and trained it on previous 
 Model is trained using regression techniques, decision trees and proper evaluating methods.
 
 **Dataset:**
-Used data from: Kaggle and FBref
+Used data from: Kaggle
 
 
 
