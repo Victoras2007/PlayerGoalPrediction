@@ -4,7 +4,6 @@
 The project aims to predict the number of goals a player will score in an upcoming match in the Premier League based on previous match statistics of that player.
 
 
-![My Image](https://images.app.goo.gl/x4rfQKGSxEZtVNH18.png)
 
 
 **Purpose:**
