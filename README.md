@@ -7,17 +7,13 @@ The project aims to predict the number of goals a player will score in an upcomi
 We build the model using machine learning techniques and trained it on previous match statistics.
 
 
-## Table of Contents
+## Contents
 1. [Why this project?](#why-this-project)  
-3. [Dataset](#dataset)  
-4. [Features](#features)  
-5. [Model](#model)  
-6. [Quick start](#quick-start)  
-7. [Results](#results)  
-8. [Project structure](#project-structure)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [Authors](#authors)
+2. [Dataset](#dataset)  
+3. [Features](#features)  
+4. [Model](#model)
+5. [Contributing](#contributing)
+6. [Authors](#authors)
 
 ---
 
@@ -26,9 +22,15 @@ We build the model using machine learning techniques and trained it on previous 
 ```bash
 Knowing the predicted number of goals a player might score in an upcoming match is a useful insight for the scouting department of the team. Also, knowing the goals that will be scored in an upcoming match by a player assists in setting up the starting XI and adjusting the tactics of the match. Moreover, it can help manage the team's attacking players and help the scouting team make decisions on potential transfers. Lastly, it will assist fans to bet on players scoring in upcoming matches.
 
+```
+## Dataset
+```bash
+Dataset from Kaggle:  https://www.kaggle.com/datasets/davidcariboo/player-scores/data
 
-## 
----
+```
+
+## Features
+```bash 
 **Predictors used:**
 - Minutes played by player
 - Goals scored in previous matches
@@ -56,19 +58,27 @@ Knowing the predicted number of goals a player might score in an upcoming match 
 - Goal-Creating Actions
 - Successful Dribbles
 
+```
+## Model
 
-**Model:**
-Model is trained using regression techniques, decision trees and proper evaluating methods.
+```bash
 
-**Dataset:**
-Used data from: Kaggle
-
-
-
+Model is trained using regression techniques and proper evaluating methods, like RMSE. Moreover, using an input statement form the user we used Decision Trees to predict the number a goals that player will score in an upcoming match
+```
 
 
 
+## Contributing
+```bash
+
+A big Thank you to our beloved lecturer Mr. Pavlos Protopapas for the valuable lessons he tought us that accompanied us throughout this journey, as well as our ecellent mentors Miss Anshika Gupta and Mr. Nawang Thinley Bhutia for their support and guidance through this project!
+
+```
+
+## Authors?
+
+```bash
 The project is created and maintained by Sotia Koukou and Victoras Panayiotides.
-
 For any help or questions feel free to contact us at: victoras1926@gmail.com or sotikou5@gmail.com
- 
+ ```
+
