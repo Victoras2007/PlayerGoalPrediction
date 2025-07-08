@@ -2,7 +2,7 @@
 ---
 
 ![Build](https://github.com/Sotia04/PlayerGoalPrediction/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/github/license/Sotia04/PlayerGoalPrediction)
 **Target:**
 The project aims to predict the number of goals a player will score in an upcoming match in the Premier League based on previous match statistics of that player.
 
