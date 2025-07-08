@@ -1,5 +1,7 @@
 **Premier League Player Goal Prediction ⚽️**
 ---
+
+![Build](https://github.com/yourname/epl-goal-predictor/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 **Target:**
 The project aims to predict the number of goals a player will score in an upcoming match in the Premier League based on previous match statistics of that player.
