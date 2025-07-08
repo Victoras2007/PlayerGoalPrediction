@@ -2,15 +2,13 @@
 ---
 **Target:**
 The project aims to predict the number of goals a player will score in an upcoming match in the Premier League based on previous match statistics of that player.
->Knowing the predicted number of goals a player might score in an upcoming match is a useful insight for the scouting department of the team. >Also, knowing the goals that will be scored in an upcoming match by a player assists in setting up the starting XI and adjusting the tactics of >the match. Moreover, it can help manage the team's attacking players and help the scouting team make decisions on potential transfers. Lastly, it >will assist fans to bet on players scoring in upcoming matches.
 
 **How our project works:**
 We build the model using machine learning techniques and trained it on previous match statistics.
 
 
 ## Table of Contents
-1. [Demo](#demo)  
-2. [Why this project?](#why-this-project)  
+1. [Why this project?](#why-this-project)  
 3. [Dataset](#dataset)  
 4. [Features](#features)  
 5. [Model](#model)  
@@ -21,6 +19,15 @@ We build the model using machine learning techniques and trained it on previous 
 10. [License](#license)  
 11. [Authors](#authors)
 
+---
+
+## Why this project?
+
+```bash
+Knowing the predicted number of goals a player might score in an upcoming match is a useful insight for the scouting department of the team. Also, knowing the goals that will be scored in an upcoming match by a player assists in setting up the starting XI and adjusting the tactics of the match. Moreover, it can help manage the team's attacking players and help the scouting team make decisions on potential transfers. Lastly, it will assist fans to bet on players scoring in upcoming matches.
+
+
+## 
 ---
 **Predictors used:**
 - Minutes played by player
