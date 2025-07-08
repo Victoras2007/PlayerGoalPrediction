@@ -66,9 +66,7 @@ Data sourced from Kaggle:
 ---
 
 ## 🤖 Model
-
-Our model is trained using regression techniques and evaluated using RMSE and other metrics.  
-We used **Decision Trees** for prediction, allowing the user to input player data and receive a match-specific goal prediction.
+Our model is trained using regression techniques and proper evaluating methods, like RMSE. Moreover, using an input statement form the user we used Decision Trees to predict the number a goals the inputed player will score in an upcoming match
 
 ---
 
@@ -87,5 +85,5 @@ This project is created and maintained by:
 - **Victoras Panayiotides**
 
 📧 For questions or support, contact:  
-victoras1926@gmail.com  
 sotikou5@gmail.com
+victoras1926@gmail.com  
