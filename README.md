@@ -1,6 +1,5 @@
 **Premier League Player Goal Prediction ⚽️**
 ---
-
 ![Build](https://github.com/Sotia04/PlayerGoalPrediction/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/Sotia04/PlayerGoalPrediction)
 **Target:**
@@ -8,7 +7,9 @@ The project aims to predict the number of goals a player will score in an upcomi
 
 
 
-
+> **TL;DR** — Feed recent match stats into our model and get an expected goal tally for the upcoming fixture. Useful for coaches, analysts, scouts, fantasy managers, and curious fans.
+>
+> 
 **Purpose:**
 Knowing the predicted number of goals a player might score in an upcoming match is a useful insight for the scouting department of the team. Also, knowing the goals that will be scored in an upcoming match by a player assists in setting up the starting XI and adjusting the tactics of the match. Moreover, it can help manage the team's attacking players and help the scouting team make decisions on potential transfers. Lastly, it will assist fans to bet on players scoring in upcoming matches.
 
